@@ -1,0 +1,159 @@
+<style>
+body {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	background: url('shelf-bg.jpg');
+	padding: 0 15px;
+	overflow-x: hidden;
+}
+
+p { 
+	line-height: 1.8;
+	margin-bottom: 0;
+}
+
+.pg-title {
+    font-size: 4vw;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.site-header {
+	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.9)), url('oldcar.jpg') no-repeat;
+	background-size: crop;
+	height: auto;
+	padding: 60px 80px;
+	position: relative;
+	border-bottom: 6px solid white;
+}
+.p1 {
+	color: white;
+	background: linear-gradient(to left, rgba(139,0,0,0), rgba(139, 0, 0, 0.6), rgba(139, 0, 0, 0)) ;
+	background-size: cover;
+	border-radius: 25px;
+	text-align: center;
+	font-weight: 900;
+	font-size: 2vw;
+}
+
+.as1 {
+	width: 30%;
+	height: auto;
+	margin-top: 2vw;
+	margin-right: 2vw;
+	background: rgba(139,0,0,0.8);
+	background-size: cover;
+	border: solid white 2px;
+	size: cover;
+	font-size:1.5vw;
+	max-width: 30%;
+	text-align: left;
+	float: right;
+	padding-top: 2vw;
+	padding-left: 1vw;
+	padding-right: 1vw;
+}
+
+.as1-h {
+	font-size: 2vw;
+	text-align: left;
+	color: white;
+	text-decoration: underline;
+	font-weight:800;
+}
+
+.f-hr1 {
+	color: white;
+}
+
+
+.button {
+	background-color: rgba(139,0,0,0.9);
+	background-size: cover;
+	display: inline-block;
+	border-radius: 15px;
+	color: white;
+	padding: 12px 10px;
+	text-align: left;
+	margin-left: 10px;
+}
+.cap1 {
+	color:white;
+	padding-top: 10px;
+}
+
+.gi1 {
+	width:30vw;
+	height: 20vw;
+	object-fit:cover;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+}
+
+.row1 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.tm-gallery-item-overlay {
+	background: rgba(139,0,0,0.8);
+	max-width: 240px;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*
+@media (min-width: 576px) {
+	.container { max-width: 500px; }
+	.tm-main-content { padding: 75px 50px 70px;}
+	.tm-main-content.no-pad-b { padding: 75px 50px 0; }
+	.tm-gallery { max-width: 500px;	}
+	.tm-highlight { padding: 40px; }
+	.tm-highlight-w-icon { flex-flow: row; }
+	.tm-highlight-icon { padding: 20px 50px 0 0; } 
+}
+
+@media (min-width: 768px) {
+	.container {max-width: 760px}
+	.tm-main-nav-ul { 
+		flex-flow: row; 
+		width: 100%;
+	}
+	.tm-main-nav-container {
+		position: absolute;
+		left: 0;
+    	bottom: 0;
+    	right: auto;
+    	top: auto;
+    	padding: 0;
+    	width: 100%;
+	}
+	.tm-main-nav .nav-link { padding: 10px 15px; }
+	.tm-gallery { max-width: 760px;	}
+	.tm-highlight { padding: 50px 100px; }
+	.tm-small-pad { padding: 40px 35px; }
+	.tm-img-center-sm {	margin-left: 0;	}
+}
+
+@media (min-width: 992px) {
+	.container { max-width: none; }
+	.tm-site-header { height: 400px; }
+	.tm-main-nav .nav-link { padding: 15px 20px; }
+	.tm-gallery { max-width: none; }
+}
+
+@media (min-width: 1200px) {
+	.container { max-width: 1120px; }
+	.tm-site-header { height: 500px; }
+	.tm-main-nav .nav-link { padding: 25px; }	
+}
+
+@media (max-height: 360px) {
+	.tm-main-nav .nav-link {
+		font-size: 1rem;
+		padding: 10px 15px;
+	}*/
+	
+</style>

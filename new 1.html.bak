@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="veiwport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="C:\Users\Alowane\Downloads\2092_shelf\2092_shelf\new1.css">
+
+    <title> View Car Properties </title>
+</head>
+<body>
+    <div id="b1" class="site-header">
+        <h1 class="pg-title"><span style="color:darkred; outline:2px solid black; border-radius:15px; padding:15px; font-size:150%; -webkit-text-stroke:1px white; background-color:rgba(256,256,256,0.5);"> 1950s Car </span></h1>
+		<br/>
+        <p class="p1"> !سيارة تقليدية فريدة من نوعها بحالة ممتازة لا يوجد منها الا القليل في العالم كله </p>	
+		<hr/>
+		<p class="p1" style="font-size:120%;"> 81/089213 :رقم الهاتف </p>
+    </div>
+	<div>
+	<figure style="height:400px; width:50%;">
+	    <img src="img/car4.jpg" width="338px" height="389px" style="display:block; margin-right:auto; margin-left:auto; width:50%; outline:solid white 2px;">
+		<figcaption style="text-align:center; color:white; font-size:150%;"> Front side </figcaption>
+	</figure>
+</body>
+</html>
+
