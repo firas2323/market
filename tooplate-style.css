@@ -9,7 +9,7 @@ http://www.tooplate.com/view/2092-shelf
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 18px;
-	background: url('../img/shelf-bg.jpg');
+	background: url('shelf-bg.jpg');
 	padding: 0 15px;
 	overflow-x: hidden;
 }
@@ -100,7 +100,7 @@ button:focus { outline: none; }
 .tm-site-description { font-size: 1.4rem; }
 
 .tm-site-header {
-	background: url('../img/porche.jpg') no-repeat;
+	background: url('porche.jpg') no-repeat;
 	background-size: cover;
 	height: 300px;
 	padding: 60px 80px;
